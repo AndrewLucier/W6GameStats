@@ -5,7 +5,7 @@ function submitForm(){
 
     // get our form inputs
     var userName =  document.getElementById("txtUserName").value;
-    var weapon = doucment.getElementById("txtWeapon").value;
+    var weapon = document.getElementById("txtWeapon").value;
     var health = document.getElementById("txtHealth").value;
     var points = document.getElementById("txtPoints").value;
 
